@@ -1,0 +1,794 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is not part of the component of primary health care?",
+      "options": [
+        "Education",
+        "Immunization",
+        "Urban development",
+        "Accessibility"
+      ],
+      "correctAnswer": "Urban development"
+    },
+    {
+      "question": "In Nigeria Primary health care was adopted in the National Health Policy of what year?",
+      "options": ["1960", "1988", "1983", "1991"],
+      "correctAnswer": "1988"
+    },
+    {
+      "question": "In 1985,……….. Was appointed the minister of health who adopted PHC in 52 Local Government areas,",
+      "options": [
+        "Professor Olikoye Ransome Kuti",
+        "Professor Yemi Osinbajo",
+        "Dora Akunyili",
+        "Mrs. Kemi Adeosun"
+      ],
+      "correctAnswer": "Professor Olikoye Ransome Kuti"
+    },
+    {
+      "question": "Reasons for first aid include the following except;",
+      "options": [
+        "Risk reduction",
+        "Reduced severity of injury",
+        "Increased mortality rate",
+        "Quick intervention"
+      ],
+      "correctAnswer": "Increased mortality rate"
+    },
+    {
+      "question": "Emergency conditions includes the following except;",
+      "options": ["Shock", "Bleeding", "Burns", "Headache"],
+      "correctAnswer": "Headache"
+    },
+    {
+      "question": "Asphyxia means;",
+      "options": [
+        "Deficient supply of blood to the body",
+        "Deficient supply of oxygen to the body",
+        "Deficient supply of nutrient to the body",
+        "Deficient supply of vitamins to the body"
+      ],
+      "correctAnswer": "Deficient supply of oxygen to the body"
+    },
+    {
+      "question": "A life threatening medical condition of low blood perfusion to body tissue is called",
+      "options": ["Asphyxiation", "Shock", "Asthma", "Strangulation"],
+      "correctAnswer": "Shock"
+    },
+    {
+      "question": "First degree burns usually affect",
+      "options": [
+        "Superficial skin layer",
+        "Deep lying tissues",
+        "Bones",
+        "Fatty muscles"
+      ],
+      "correctAnswer": "Superficial skin layer"
+    },
+    {
+      "question": "Burns which results in loss of sensitivity and pain is best described as",
+      "options": [
+        "Zero degree burns",
+        "First degree burns",
+        "Second degree burns",
+        "Third degree burns"
+      ],
+      "correctAnswer": "Third degree burns"
+    },
+    {
+      "question": "An immediate and temporary care given to a victim of an accident or sudden illness before the services of a physician is called",
+      "options": [
+        "Medical care",
+        "Primary health care",
+        "First aid",
+        "Intensive care"
+      ],
+      "correctAnswer": "First aid"
+    },
+    {
+      "question": "Which of the following is not advisable when you are controlling bleeding",
+      "options": [
+        "Applying a direct pressure",
+        "Elevate the injured part of the lessen blood flow",
+        "Applying tourniquet",
+        "Pouring lukewarm water to the site of bleeding"
+      ],
+      "correctAnswer": "Applying tourniquet"
+    },
+    {
+      "question": "Signs and symptoms of the fracture are the following except;",
+      "options": ["Deformity", "Loss of motion", "Splinting", "Swelling"],
+      "correctAnswer": "Splinting"
+    },
+    {
+      "question": "A device to immobilize an injured part of the body is called …………..",
+      "options": ["Splinting", "Plaster", "Rope", "Tourniquet"],
+      "correctAnswer": "Splinting"
+    },
+    {
+      "question": "The part  of the tongue with the sensitive taste of saltiness and sweetness is",
+      "options": ["Tip", "Sides", "Back", "Middle"],
+      "correctAnswer": "Tip"
+    },
+    {
+      "question": "Dental caries is a disease condition of",
+      "options": ["Dentist", "Tooth", "Tongue", "Buccal cavity"],
+      "correctAnswer": "Tooth"
+    },
+    {
+      "question": "Which of the following is a risk factor of oral cancer?",
+      "options": [
+        "Proper oral hygiene",
+        "Tobacco use",
+        "Good nutrition",
+        "Drinking of enough water"
+      ],
+      "correctAnswer": "Tobacco use"
+    },
+    {
+      "question": "Pharmacy Technician can help in achieving good oral hygiene by doing all the following except:",
+      "options": [
+        "Avoiding people with poor oral hygiene",
+        "Engaging people by providing oral health education",
+        "Promoting positive oral health behavior",
+        "Taking leads in mobilizing clients for good oral health behavior"
+      ],
+      "correctAnswer": "Avoiding people with poor oral hygiene"
+    },
+    {
+      "question": "Which of the following is an emergency drug?",
+      "options": ["Adrenaline", "Amoxycillin", "Diclofenac", "Omeprazole"],
+      "correctAnswer": "Adrenaline"
+    },
+    {
+      "question": "As a first aider; you are an eye witness to an accident case, which one of the following is wrong?",
+      "options": [
+        "Call for help",
+        "Attend to the unconscious victims before the conscious victims",
+        "Attend to the conscious victims before the unconscious victims",
+        "Do not panic"
+      ],
+      "correctAnswer": "Attend to the unconscious victims before the conscious victims"
+    },
+    {
+      "question": "Cardiopulmonary resuscitation is an example of:",
+      "options": [
+        "Pulmonary disease",
+        "Cardiac disease",
+        "Pneumonia disease",
+        "Life saving procedures"
+      ],
+      "correctAnswer": "Life saving procedures"
+    },
+    {
+      "question": "The brain needs …………. For proper functioning.",
+      "options": ["Glucose", "Protein", "Vitamins", "Fat"],
+      "correctAnswer": "Glucose"
+    },
+    {
+      "question": "The end product of protein is …………..",
+      "options": ["Citric acid", "Amino acid", "Gluconic acid", "Glucose"],
+      "correctAnswer": "Amino acid"
+    },
+    {
+      "question": "…………. Is the end product of carbohydrates.",
+      "options": ["Glucose", "Galactose", "Lactose", "Sucrose"],
+      "correctAnswer": "Glucose"
+    },
+    {
+      "question": "Which one of the following is a live vaccine?",
+      "options": ["Measles", "Cholera", "Typhoid", "Pertussis"],
+      "correctAnswer": "Measles"
+    },
+    {
+      "question": "One of the following is not a type of vaccines.",
+      "options": [
+        "Live vaccine",
+        "Killed vaccine",
+        "Non conjugate vaccines",
+        "Recombinant vaccines"
+      ],
+      "correctAnswer": "Non conjugate vaccines"
+    },
+    {
+      "question": "Most vaccines are stored in cold chain equipment because of the following except;",
+      "options": [
+        "They are sensitive to high temperature",
+        "To remain active and potent",
+        "To increase their potency and expiry date",
+        "They must be stored at low temperatures"
+      ],
+      "correctAnswer": "To increase their potency and expiry date"
+    },
+    {
+      "question": "Which one of the following can be self diagnosed?",
+      "options": ["Shock", "Burns", "Asphyxia", "Acute abdomen"],
+      "correctAnswer": "Acute abdomen"
+    },
+    {
+      "question": "The provider of counseling on family planning/child spacing methods should be:",
+      "options": [
+        "Friendly and accommodating",
+        "Jovial and flirting",
+        "Provide inadequate information on sexual and reproductive health",
+        "Ensure confidentiality only when its necessary"
+      ],
+      "correctAnswer": "Friendly and accommodating"
+    },
+    {
+      "question": "Advantages of family planning includes all but one of these:",
+      "options": [
+        "Removes fear of unwanted pregnancy",
+        "Promote good health",
+        "Allows women to have multiple sexual partners",
+        "Gives way for planning of the future"
+      ],
+      "correctAnswer": "Allows women to have multiple sexual partners"
+    },
+    {
+      "question": "A burn as a result of hot liquid is called:",
+      "options": [
+        "Thermal burn",
+        "Scald",
+        "Radiation burn",
+        "Hydrolytic burns"
+      ],
+      "correctAnswer": "Scald"
+    },
+    {
+      "question": "Weakness, dizziness, palor, cold sweat and unconsciousness are signs and symptoms",
+      "options": [
+        "Cardiac arrest",
+        "Heart failure",
+        "Fainting",
+        "Acute asthmatic attack"
+      ],
+      "correctAnswer": "Fainting"
+    },
+    {
+      "question": "Some of the features of primary health care in Nigeria health system are the following except;",
+      "options": [
+        "An element of the health system",
+        "Inequity",
+        "Sustainability and self reliance",
+        "Community participation"
+      ],
+      "correctAnswer": "Inequity"
+    },
+    {
+      "question": "Primary health care is essentially aimed at all the following but one;",
+      "options": [
+        "Health promotion",
+        "Disease prevention",
+        "Intensive care",
+        "Curing disease"
+      ],
+      "correctAnswer": "Intensive care"
+    },
+    {
+      "question": "Millennium development goals (MDGs) include the under listed except:",
+      "options": [
+        "Promote gender inequality and empower women",
+        "Reduce child mortality",
+        "Combat HIV/AIDS, Malaria and other diseases",
+        "Achieve universal primary education"
+      ],
+      "correctAnswer": "Promote gender inequality and empower women"
+    },
+    {
+      "question": "All the following are very common health issues among aged/elderly except",
+      "options": ["Poverty", "Arthritis", "Eye sight failing", "Diabetes"],
+      "correctAnswer": "Poverty"
+    },
+    {
+      "question": "The food requirement of an individual depends among others all these except;",
+      "options": ["Age", "Body weight", "Culture", "Sex"],
+      "correctAnswer": "Culture"
+    },
+    {
+      "question": "Fat soluble vitamins are all these except",
+      "options": ["Vitamin A", "Vitamin B", "Vitamin E", "Vitamin K"],
+      "correctAnswer": "Vitamin B"
+    },
+    {
+      "question": "Deficiency of protein overtime in a body can result to",
+      "options": ["Scurvy", "Kwashiorkor", "Beri beri", "Ricket"],
+      "correctAnswer": "Kwashiorkor"
+    },
+    {
+      "question": "Protection against communicable diseases involves the following except",
+      "options": [
+        "Consuming raw foods",
+        "Safe water supply",
+        "Sanitary excreta disposal",
+        "Safe food preparation"
+      ],
+      "correctAnswer": "Consuming raw foods"
+    },
+    {
+      "question": "Which of the following can be described as high risk pregnancy",
+      "options": [
+        "Pregnancy of more than 2 years apart",
+        "Pregnancy after the age of 35 years",
+        "Pregnancy after 2 births",
+        "Pregnancy after the age of 20"
+      ],
+      "correctAnswer": "Pregnancy after the age of 35 years"
+    },
+    {
+      "question": "A Pharmacy Technician in a basic health centre can take part in the antenatal care by",
+      "options": [
+        "Taking history of the pregnant women",
+        "Advising and educating the pregnant women on routine drug use",
+        "Checking vital signs",
+        "Involving in delivery taking"
+      ],
+      "correctAnswer": "Advising and educating the pregnant women on routine drug use"
+    },
+    {
+      "question": "Routine antenatal examination are all the under listed except;",
+      "options": [
+        "Blood grouping",
+        "Blood pressure measurement",
+        "Fundal height evaluation",
+        "Weight and height taking"
+      ],
+      "correctAnswer": "Weight and height taking"
+    },
+    {
+      "question": "Which one of the following is wrong in antenatal clinic visits?",
+      "options": [
+        "Every four weeks till 28 weeks",
+        "Every 2 weeks till 36 weeks",
+        "Every week until the commencement of labour",
+        "Alternate weeks till 40 weeks"
+      ],
+      "correctAnswer": "Alternate weeks till 40 weeks"
+    },
+    {
+      "question": "The period between the third stage of labour and the six weeks postpartum is called……",
+      "options": ["Post natal care", "Mother care", "Puerperium", "Child care"],
+      "correctAnswer": "Puerperium"
+    },
+    {
+      "question": "Routine drugs commonly given to pregnant women during antenatal visits include all but one;",
+      "options": ["Ferous", "Folic acid", "Ascorbic acid", "Diclofenac"],
+      "correctAnswer": "Diclofenac"
+    },
+    {
+      "question": "Which of the following is odd in high risk pregnancies",
+      "options": [
+        "Balanced diet",
+        "Exercise",
+        "Sexual activity",
+        "Medications"
+      ],
+      "correctAnswer": "Sexual activity"
+    },
+    {
+      "question": "Skilled attendants at birth by WHO Standards are all these except;",
+      "options": ["TBAs", "Midwives", "Nurses", "Doctors"],
+      "correctAnswer": "TBAs"
+    },
+    {
+      "question": "Which one of these family planning is considered unsafe?",
+      "options": [
+        "IUCD",
+        "Injectable contraceptives",
+        "Implant",
+        "Withdrawal method"
+      ],
+      "correctAnswer": "Withdrawal method"
+    },
+    {
+      "question": "The total or partial removal of the external female genitalia is called……..",
+      "options": [
+        "Female genital mutilation",
+        "Female contraceptive",
+        "Sexual assault",
+        "Female sexual culture"
+      ],
+      "correctAnswer": "Female genital mutilation"
+    },
+    {
+      "question": "Fetus develops and grows until delivery inside",
+      "options": ["The oviduct", "The cervix", "The uterus", "The vaginal"],
+      "correctAnswer": "The uterus"
+    },
+    {
+      "question": "Some of the wrong reasons for female genital mutilation include all but one",
+      "options": [
+        "Increases female sexual desires",
+        "Curtail female sexual desire",
+        "Part of cultural heritage",
+        "Aesthetic reasons"
+      ],
+      "correctAnswer": "Increases female sexual desires"
+    },
+    {
+      "question": "Vaccines exist for the following diseases except;",
+      "options": ["Whooping cough", "Measles", "Snake bites", "Yellow fever"],
+      "correctAnswer": "Snake bites"
+    },
+    {
+      "question": "Immunoglobullins include all these except;",
+      "options": ["IgP", "IgM", "IgB", "IgE"],
+      "correctAnswer": "IgB"
+    },
+    {
+      "question": "The tier of government that is directly responsible for the PHC in Nigeria is",
+      "options": [
+        "Federal government",
+        "State government",
+        "Local government",
+        "All of the above"
+      ],
+      "correctAnswer": "Local government"
+    },
+    {
+      "question": "Most Tertiary health care facilities are under the control of",
+      "options": [
+        "State government",
+        "Federal government",
+        "Local government",
+        "All of the above"
+      ],
+      "correctAnswer": "Federal government"
+    },
+    {
+      "question": "General hospitals are;",
+      "options": [
+        "Tertiary health care",
+        "Primary health care",
+        "Secondary health care",
+        "None of the above"
+      ],
+      "correctAnswer": "Secondary health care"
+    },
+    {
+      "question": "The ‘3Bs’ order of priority when treating accident victims are;",
+      "options": [
+        "Breathing, bloating, bleeding",
+        "Breathing, bleeding, bones",
+        "Breathing, bladder, blockade",
+        "Breathing, bleeding, blabbing"
+      ],
+      "correctAnswer": "Breathing, bleeding, bones"
+    },
+    {
+      "question": "A brief loss of consciousness that is caused by temporary reduction of blood flow to the brain is called………..",
+      "options": ["Shock", "Fainting", "Hyperventilation", "Dehydration"],
+      "correctAnswer": "Fainting"
+    },
+    {
+      "question": "…………………….. Is the mechanical obstruction of the flow of air from the environment to the lungs",
+      "options": ["Choking", "Asthma", "COPD", "Respiratory infections"],
+      "correctAnswer": "Choking"
+    },
+    {
+      "question": "……………….is the placement of one or more bones at a joint",
+      "options": ["Fracture", "Dislocation", "Bruises", "Sprain"],
+      "correctAnswer": "Dislocation"
+    },
+    {
+      "question": "Tourniquet is used in first aid primarily for",
+      "options": [
+        "Aesthetic purposes",
+        "Splinting and bleeding wounds",
+        "To set infusion lines",
+        "To help carrying a patient to the hospital"
+      ],
+      "correctAnswer": "Splinting and bleeding wounds"
+    },
+    {
+      "question": "Which of the following drugs is not an antimalarial",
+      "options": [
+        "Artesunate",
+        "Amoxycillin",
+        "Quinine",
+        "Arthemether/lumefantrin"
+      ],
+      "correctAnswer": "Amoxycillin"
+    },
+    {
+      "question": "Everyone benefits from family planning except",
+      "options": [
+        "The mother",
+        "The children",
+        "The community member",
+        "None of the above"
+      ],
+      "correctAnswer": "None of the above"
+    },
+    {
+      "question": "In Nigeria, composition of primary health care team include but not limited to these except",
+      "options": [
+        "Village health Workers",
+        "JCHEW and CHEW Health workers",
+        "Pharmacists and pharmacy technicians",
+        "Traditional suit sayers and healers"
+      ],
+      "correctAnswer": "Traditional suit sayers and healers"
+    },
+    {
+      "question": "Which one of the following is wrong in PHC",
+      "options": [
+        "Cases that could not be handled in secondary level are transferred to primary care level",
+        "Cases that could not be handled in secondary levels are transferred to tertiary levels",
+        "Cases that are difficult could be transferred to the secondary levels or tertiary levels",
+        "None of the above"
+      ],
+      "correctAnswer": "Cases that could not be handled in secondary level are transferred to primary care level"
+    },
+    {
+      "question": "Which one of the following disease has mostly decimated Nigerians",
+      "options": ["HIV/AIDS", "Hypertension", "Malaria", "Diabetes"],
+      "correctAnswer": "HIV/AIDS"
+    },
+    {
+      "question": "The following are signs and symptoms of malaria except",
+      "options": ["Fever", "Headaches", "Breathing with exertion", "Tiredness"],
+      "correctAnswer": "Breathing with exertion"
+    },
+    {
+      "question": "Chloroquine is no longer effective in the treatment of malaria because of",
+      "options": [
+        "High recurrence",
+        "High resistance",
+        "High re infection",
+        "High prevalence"
+      ],
+      "correctAnswer": "High resistance"
+    },
+    {
+      "question": "………… has no cure presently",
+      "options": ["HIV/AIDS", "Malaria", "Arthritis", "Typhoid fever"],
+      "correctAnswer": "HIV/AIDS"
+    },
+    {
+      "question": "The surest and most single habit to avoid HIV is",
+      "options": [
+        "Abstinence",
+        "Using condom",
+        "Be faithful to a sexual partner",
+        "Avoid sharing unsterilized instrument"
+      ],
+      "correctAnswer": "Abstinence"
+    },
+    {
+      "question": "One of these STDs is nearly impossible to treat and incurable",
+      "options": ["Genital herpes", "Syphilis", "Gonorrhea", "Genital wart"],
+      "correctAnswer": "Genital herpes"
+    },
+    {
+      "question": "Implantation of the embryo takes place at where?",
+      "options": ["Uterus", "Fallopian tube", "Ovary", "Vulva"],
+      "correctAnswer": "Uterus"
+    },
+    {
+      "question": "Painful menstruation is called",
+      "options": [
+        "Amenorrhea",
+        "Dysmenorrhea",
+        "Menorrhagia",
+        "Oligomenorrhea"
+      ],
+      "correctAnswer": "Dysmenorrhea"
+    },
+    {
+      "question": "A woman who has not given birth to a child is called",
+      "options": ["Primigravida", "Nullipara", "Multipara", "Gravid uterus"],
+      "correctAnswer": "Nullipara"
+    },
+    {
+      "question": "A woman who is carrying pregnancy for the first time is referred to as",
+      "options": ["Primigravida", "Multipara", "Nullipara", "Multigravida"],
+      "correctAnswer": "Primigravida"
+    },
+    {
+      "question": "Most private hospitals are at which level of health care",
+      "options": ["Tertiary", "Secondary", "Primary", "All of the above"],
+      "correctAnswer": "Secondary"
+    },
+    {
+      "question": "Health education encompasses all the following except",
+      "options": [
+        "Financial health",
+        "Physical health",
+        "Social health",
+        "Emotional health"
+      ],
+      "correctAnswer": "Financial health"
+    },
+    {
+      "question": "Health education is important because of all the following but one",
+      "options": [
+        "It builds knowledge about health",
+        "It builds awareness about physical, mental and emotional health",
+        "It encourages physical approach to every problems",
+        "It teaches how to prevent diseases and reduce risk behaviours"
+      ],
+      "correctAnswer": "It encourages physical approach to every problems"
+    },
+    {
+      "question": "Which of the following best summarizes the ultimate goal and purpose of health education",
+      "options": [
+        "To positively influence the health behavior of individuals and communities",
+        "To encourage self reliance when it comes to personal hygiene",
+        "To promote the health status and well being of individuals",
+        "To encourage individuals to take charge and responsibility on matters that affect their health"
+      ],
+      "correctAnswer": "To positively influence the health behavior of individuals and communities"
+    },
+    {
+      "question": "Health communication seeks the following except",
+      "options": [
+        "Increase clients knowledge and awareness of a health issue",
+        "Demonstrate health practices",
+        "Advocate a position on a health issues or policy",
+        "Decrease demand or support for health services"
+      ],
+      "correctAnswer": "Decrease demand or support for health services"
+    },
+    {
+      "question": "Communication in health education is either",
+      "options": [
+        "Direct person to person or indirect",
+        "Must be exclusively direct",
+        "Must be indirect form of health communication",
+        "Could be directly indirect"
+      ],
+      "correctAnswer": "Direct person to person or indirect"
+    },
+    {
+      "question": "Posters when used to convey health information can be described as",
+      "options": [
+        "Direct and indirect form of communication",
+        "Direct form of communication",
+        "Indirect form of communication",
+        "None of the above"
+      ],
+      "correctAnswer": "Indirect form of communication"
+    },
+    {
+      "question": "Which of the following is true of a direct form of health communication",
+      "options": [
+        "The clients are usually the principal communicator",
+        "The health worker is usually the principal communicator",
+        "The audience are usually the principal communicator",
+        "All of the above"
+      ],
+      "correctAnswer": "The health worker is usually the principal communicator"
+    },
+    {
+      "question": "VCT on HIV/AIDS means",
+      "options": [
+        "Voluntary counseling and testing",
+        "Voluntarily conducted tests",
+        "Volunteers on conducting tests",
+        "None of the above"
+      ],
+      "correctAnswer": "Voluntary counseling and testing"
+    },
+    {
+      "question": "ICCM means",
+      "options": [
+        "International committee on cases management",
+        "International community case management",
+        "Interaction on continue case management",
+        "Integrated community case management"
+      ],
+      "correctAnswer": "Integrated community case management"
+    },
+    {
+      "question": "The word ‘Alma- Ata’ as being commonly used in PHC means",
+      "options": [
+        "National conference on PHC",
+        "Nigerian conference on PHC",
+        "International conference on PHC",
+        "State conference on PHC"
+      ],
+      "correctAnswer": "International conference on PHC"
+    },
+    {
+      "question": "The ‘Alma- Ata’ declaration of …………… emerged as a major milestone of the twentieth century in the field of public health",
+      "options": ["1960", "1990", "1978", "2000"],
+      "correctAnswer": "1978"
+    },
+    {
+      "question": "The apex of the Nigerian health system is",
+      "options": [
+        "Teaching hospitals",
+        "Specialist hospitals",
+        "General hospitals",
+        "Primary health centres"
+      ],
+      "correctAnswer": "Teaching hospitals"
+    },
+    {
+      "question": "Which of the following is at the bottom level in health services in Nigeria?",
+      "options": [
+        "Health education",
+        "Health insurance",
+        "Primary health care services",
+        "Secondary level health services"
+      ],
+      "correctAnswer": "Primary health care services"
+    },
+    {
+      "question": "Skills for effective communication in health include all but one",
+      "options": ["Convincing", "Observing", "Instructing", "Listening"],
+      "correctAnswer": "Convincing"
+    },
+    {
+      "question": "A process through which health care professionals attempt to increase patient knowledge and education on health care issues is called",
+      "options": [
+        "Patient convincing",
+        "Patient care",
+        "Patient information",
+        "Patient counseling"
+      ],
+      "correctAnswer": "Patient counseling"
+    },
+    {
+      "question": "Patient counseling methods involve all but one",
+      "options": [
+        "Introduction of the session",
+        "Content of the session",
+        "Voluminous process followed",
+        "Conclusion of the session"
+      ],
+      "correctAnswer": "Voluminous process followed"
+    },
+    {
+      "question": "Patient counseling can be concluded by all except;",
+      "options": [
+        "Not verifying patient understanding via feedback",
+        "Summaries by acknowledging or emphasizing key points",
+        "Provide an opportunity for final concerns or questions",
+        "Help the patient to plan and follow up on next steps"
+      ],
+      "correctAnswer": "Not verifying patient understanding via feedback"
+    },
+    {
+      "question": "Non verbal communication include all these except;",
+      "options": ["Talking", "Facial expression", "Body postures", "Gestures"],
+      "correctAnswer": "Talking"
+    },
+    {
+      "question": "Essential amino acids include the following except",
+      "options": ["Histidine", "Isoleucine", "Leucine", "None of the above"],
+      "correctAnswer": "None of the above"
+    },
+    {
+      "question": "Carbohydrates contains the elements",
+      "options": ["Carbon", "Hydrogen", "Oxygen", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "question": "Which of the following is commonly abused drug",
+      "options": ["Diclofenac", "Ibuprofen", "Tramadol", "Piroxicam"],
+      "correctAnswer": "Tramadol"
+    },
+    {
+      "question": "The organs of government with the sole authority of regularising and controlling of pharmacy technician programmes in Nigeria is",
+      "options": ["NAFDAC", "NDLEA", "PCN", "PSN"],
+      "correctAnswer": "PCN"
+    },
+    {
+      "question": "Signs of pregnancy may include the following except",
+      "options": [
+        "Mood changes",
+        "Breast tenderness",
+        "Nausea and vomiting",
+        "Convulsion"
+      ],
+      "correctAnswer": "Convulsion"
+    },
+    {
+      "question": "Contraceptives product that are commonly being abused is",
+      "options": ["Postinor", "Combination-3", "Mestrogen", "Post-pill"],
+      "correctAnswer": "Postinor"
+    }
+  ]
+}
